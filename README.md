@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dev-sydney
+- 👋 Hi, I’m Sydney Otutey
 - 👀 I’m interested in Web and Mobile App development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
