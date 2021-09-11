@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sydney 
-- 👀 I’m interested in Web and Mobile App development
+- 👀 I’m interested in Web Apps and Mobile App development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
